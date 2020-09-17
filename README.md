@@ -16,6 +16,7 @@ You can add items by issue or pull request.
 * [ATAS](https://atas.net/ru/) - Multifunctional trading software
 * [Bookmap](https://bookmap.com/) - Online trading platform
 * [CScalp](https://fsr-develop.ru) - Simple and fast scalping tool (free)
+* [LEXX](https://lexxtg.com) - Trading terminal with few automated features
 * [MoonBot](https://moon-bot.com/) - Trading tool/bot with a lot of settings
 * [Quantower](https://www.quantower.com) - Trading tool with many free functions
 * [TigerTrade](https://tigertradesoft.ru) - Multifunctional trading software
