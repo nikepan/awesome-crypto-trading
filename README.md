@@ -8,13 +8,14 @@ You can add items by issue or pull request.
     - [Trading software](#trading-software)
     - [Analytical tools](#analytical-tools)
     - [Screeners](#screeners)
+    - [Other](#other)
    
    
     
 ## Trading software/platform
 * [ATAS](https://atas.net/ru/) - Multifunctional trading software
 * [Bookmap](https://bookmap.com/) - Online trading platform
-* [CScalp](https://fsr-develop.ru) - Free and fast scalping tool
+* [CScalp](https://fsr-develop.ru) - Simple and fast scalping tool (free)
 * [MoonBot](https://moon-bot.com/) - Trading tool/bot with a lot of settings
 * [Quantower](https://www.quantower.com) - Trading tool with many free functions
 * [TigerTrade](https://tigertradesoft.ru) - Multifunctional trading software
@@ -30,3 +31,7 @@ You can add items by issue or pull request.
 ## Screeners
 * [RTT Screener](https://r-invest.fund/screener) - RTT volume/delta screener
 * [Xypher](https://xypher.io/Screener) - Simple but useful intraday screener
+
+
+## Other
+* [Trader make money](https://tradermake.money/) - Binance futures trade journal (free)
