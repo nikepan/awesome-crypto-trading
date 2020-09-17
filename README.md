@@ -11,10 +11,12 @@ You can add items by issue or pull request.
    
    
     
-## Trading software
+## Trading software/platform
 * [ATAS](https://atas.net/ru/) - Multifunctional trading software
+* [Bookmap](https://bookmap.com/) - Online trading platform
 * [CScalp](https://fsr-develop.ru) - Free and fast scalping tool
 * [MoonBot](https://moon-bot.com/) - Trading tool/bot with a lot of settings
+* [Quantower](https://www.quantower.com) - Trading tool with many free functions
 * [TigerTrade](https://tigertradesoft.ru) - Multifunctional trading software
 
 
