@@ -1,5 +1,7 @@
 # Awesome crypto trading
 
+You can add items by issue or pull request.
+
 ### Contents
 
 - [Awesome crypto trading](#awesome-crypto-trading)
