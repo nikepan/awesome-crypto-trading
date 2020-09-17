@@ -34,4 +34,5 @@ You can add items by issue or pull request.
 
 
 ## Other
+* [Equite](https://www.equite.io/ru/) - Trader ratings
 * [Trader make money](https://tradermake.money/) - Binance futures trade journal (free)
