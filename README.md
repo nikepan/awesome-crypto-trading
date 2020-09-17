@@ -5,7 +5,7 @@ You can add items by issue or pull request.
 ### Contents
 
 - [Awesome crypto trading](#awesome-crypto-trading)
-    - [Trading software](#trading-software)
+    - [Trading software/platform](#trading-softwareplatform)
     - [Analytical tools](#analytical-tools)
     - [Screeners](#screeners)
     - [Other](#other)
