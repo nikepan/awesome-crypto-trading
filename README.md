@@ -33,6 +33,7 @@ You can add items by issue or pull request.
 * [BitScreener](https://bitscreener.com/screener) - Large intervals screener with charts
 * [CryptoAlerts](https://cryptoalerts.ai) - Screener with charts and indicators
 * [RTT Screener](https://r-invest.fund/screener) - RTT volume/delta screener
+* [Tradingview](https://www.tradingview.com/crypto-screener/) - Screener with many parameters
 * [Xypher](https://xypher.io/Screener) - Simple but useful intraday screener
 
 
