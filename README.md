@@ -38,5 +38,6 @@ You can add items by issue or pull request.
 
 
 ## Other
+* [Capcoin](https://capcoin.ru) - Free tradingview chart grid
 * [Equite](https://www.equite.io/ru/) - Trader ratings
 * [Trader make money](https://tradermake.money/) - Binance futures trade journal (free)
