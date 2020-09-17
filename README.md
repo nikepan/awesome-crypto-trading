@@ -30,7 +30,7 @@ You can add items by issue or pull request.
 
 
 ## Screeners
-* [Cryptoalerts](https://cryptoalerts.ai) - Screener with charts and indicators
+* [CryptoAlerts](https://cryptoalerts.ai) - Screener with charts and indicators
 * [RTT Screener](https://r-invest.fund/screener) - RTT volume/delta screener
 * [Xypher](https://xypher.io/Screener) - Simple but useful intraday screener
 
