@@ -31,6 +31,7 @@ You can add items by issue or pull request.
 
 ## Screeners
 * [BitScreener](https://bitscreener.com/screener) - Large intervals screener with charts
+* [ChartScout](https://chartscout.io) - Free crypto chart pattern scanner with automated detection for 20+ patterns, real-time alerts, and multi-exchange support. 
 * [CryptoAlerts](https://cryptoalerts.ai) - Screener with charts and indicators
 * [RTT Screener](https://r-invest.fund/screener) - RTT volume/delta screener
 * [Tradingview](https://www.tradingview.com/crypto-screener/) - Screener with many parameters
