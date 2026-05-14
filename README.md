@@ -25,6 +25,7 @@ You can add items by issue or pull request.
 
 ## Analytical tools
 * [RTT](https://r-invest.fund/rtt/) - Balance-based analytics platform
+* [Sharpe](https://www.sharpe.ai/) - Crypto market intelligence for derivatives positioning, arbitrage opportunities, narratives, and news
 * [Tradingview](https://tradingview.com) - Multifunctional service
 
 
