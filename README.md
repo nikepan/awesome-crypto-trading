@@ -27,7 +27,7 @@ You can add items by issue or pull request.
 * [RTT](https://r-invest.fund/rtt/) - Balance-based analytics platform
 * [Tradingview](https://tradingview.com) - Multifunctional service
 
-
+* [CryptoFlowData](https://cryptoflowdata.com) - Institutional order flow scanner. It detects order book walls, filters retail noise to declare bullish/bearish shifts, and maps price targets to confirmed liquidity
 
 ## Screeners
 * [BitScreener](https://bitscreener.com/screener) - Large intervals screener with charts
