@@ -26,6 +26,7 @@ You can add items by issue or pull request.
 ## Analytical tools
 * [RTT](https://r-invest.fund/rtt/) - Balance-based analytics platform
 * [Tradingview](https://tradingview.com) - Multifunctional service
+* [FerimanEdge](https://ferimanedge.com/) - Rule-based BTC, ETH and BNB market-regime analytics with public regime states and published outcomes
 
 
 
